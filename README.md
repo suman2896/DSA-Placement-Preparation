@@ -34,7 +34,7 @@ Problems are sourced from:
 
 Each file includes a link to the original problem statement.
 
-## 👨‍💻 Author
+## 👨‍💻 About Me
 
 Hi, I'm **Suman Chowdhury** — a Computer Science & Engineering student (Batch of 2026) with a deep passion for problem-solving, machine learning, and deep learning.
 
