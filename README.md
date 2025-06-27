@@ -1,2 +1,27 @@
-# DSA-Placement-Preparation
-This repository is a curated collection of Data Structures and Algorithms problems that I’ve solved while preparing for coding interviews and software developer roles. It includes solutions categorized by topic, platform, and difficulty, along with explanations, time &amp; space complexity notes.
+# 📘 DSA Placement Preparation
+
+Welcome! This repository contains my curated solutions to common Data Structures & Algorithms problems, organized by topic. Ideal for interview prep and placements.
+
+## 📌 Topics Covered
+- Arrays
+- Strings
+- Linked List
+- Trees
+- Graphs
+- Dynamic Programming
+- Greedy
+- Heaps
+- Tries
+- Recursion & Backtracking
+- Bit Manipulation
+
+## 📌 Platforms
+- [Leetcode](https://leetcode.com/)
+- [GeeksForGeeks](https://www.geeksforgeeks.org/)
+- [InterviewBit](https://www.interviewbit.com/)
+
+
+## 🚀 Let's Connect
+- [LinkedIn](https://linkedin.com/in/yourprofile)
+- If you're preparing too, feel free to fork this repo or contribute!
+
